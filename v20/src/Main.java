@@ -1,5 +1,10 @@
 public class Main {
     public static void main(String[] args) {
+		/*Знаешь, нужно быть не просто хорошим программистом чтобы написать систему, 
+		подобную Linux. Нужно быть ещё и хитрой сволочью.  Линус Торвальдс
+		
+		Кофе не помогает программировать, зато он приятен на вкус. Джеймс Гослинг
+		*/
         Specialist specTanya = new Specialist("Tanya",25,700,1);
         Specialist specDima = new Specialist("Dmitrii",22,800,2);
         Specialist specEvgen = new Specialist("Evgenii",27,1000,3);
