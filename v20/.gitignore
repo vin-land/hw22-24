@@ -2,5 +2,7 @@
 .idea/
 out/
 
+# Цитаты в классе Main
+
 #pic
 src/ignore.jpg
