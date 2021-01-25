@@ -2,7 +2,11 @@
 .idea/
 out/
 
+<<<<<<< HEAD
 #комментарии в классе Main
+=======
+#Комментарии цитат в классе Main
+>>>>>>> refs/remotes/origin/master
 
 #pic
 src/ignore.jpg
